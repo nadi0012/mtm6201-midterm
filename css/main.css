@@ -416,8 +416,14 @@ input::placeholder {
     animation-timing-function: ease-in-out;
     animation-direction: alternate;
 }
+.bannerinfo-story h3{
+    transition: 1s ease-in-out;
+  }
 
-
+.bannerinfo-story h3:hover{
+    transform:scale(0.5);
+    transition: 1s ease-in-out;
+}
 /* adding animation for the category lists*/
 
 .category {
