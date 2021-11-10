@@ -215,7 +215,7 @@ li a.home::after {
     left: 0;
     width: 100%;
     height: 50px;
-    background: url(../images/Tri.png) no-repeat center center;
+    background: url("../images/Tri.png") no-repeat center center;
     background-size: contain;
 }
 
@@ -226,7 +226,7 @@ li a.story::after {
     left: 0;
     width: 100%;
     height: 50px;
-    background: url(../images/Tri.png) no-repeat center center;
+    background: url("../images/Tri.png") no-repeat center center;
     background-size: contain;
 }
 
@@ -237,7 +237,7 @@ li a.contact::after {
     left: 0;
     width: 100%;
     height: 55px;
-    background: url(../images/Tri.png) no-repeat center center;
+    background: url("../images/Tri.png") no-repeat center center;
     background-size: contain;
 }
 
@@ -254,7 +254,7 @@ ul li a:visited {
 
 /* adding image for banner of home page  */
 .banner {
-    background: url(../images/pexels-roman-odintsov-5060450.jpg) no-repeat center center;
+    background: black url("../images/pexels-roman-odintsov-5060450.jpg") no-repeat center center;
     background-size: cover;
     margin-top: 40px;
     padding-top: 3%;
@@ -280,7 +280,7 @@ h2 {
 
 /* adding image for banner of About page  */
 .banner-story {
-    background: url(../images/pexels-kindel-media-8093200.jpg) no-repeat center center;
+    background: black url("../images/pexels-kindel-media-8093200.jpg") no-repeat center center;
     background-size: cover;
     margin-top: 50px;
     padding-bottom: 8%;
